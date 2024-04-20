@@ -1,0 +1,5 @@
+meta/*
+plots/*
+dataset/*
+addons/*
+__pycache__/*
