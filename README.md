@@ -66,7 +66,7 @@ In our work, we have used the source code~\cite{Evangelou_EG_2023}, available at
 
 
 ## Acknowledgments
-This research was funded by the Hellenic Foundation for Research and Innovation (HFRI) under the “3rd Call for H.F.R.I. Research Projects to support Post-Doctoral Researchers” (Project No: 7310).
+This research was funded by the Hellenic Foundation for Research and Innovation (HFRI) under the “3rd Call for H.F.R.I. Research Projects to support Post-Doctoral Researchers” (Project No: 7310, <a href="https://lotus.aueb.gr">LOTUS</a>).
 
 <center><img src="images/ELIDEK_Logo.jpg" alt="drawing" style="width: 40vw"/></center>
 
